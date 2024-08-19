@@ -1,6 +1,6 @@
 # Image Processing using OpenCV
 
-This repository contains a collection of basic image processing techniques implemented using OpenCV. The project covers a variety of operations, including image manipulation, pixel transformation, geometric transformation, linear filtering, edge detection, thresholding, and morphological operations.
+This project features a collection of basic image processing techniques implemented using OpenCV. It covers a range of operations, including image manipulation, pixel transformation, geometric transformation, linear filtering, edge detection, thresholding, and morphological operations
 
 ## Features
 
